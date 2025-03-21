@@ -20,7 +20,10 @@ This repository contains an **Excel-based Bike Sales Analysis** project, coverin
 ✔️ Monthly and yearly sales performance  
 
 ## 🖼️ Screenshots  
-![Dashboard Preview](IMAGE_LINK_HERE)  
+![Dashboard Preview](Dashboard.png)  
+
+## 📥 Download Dataset  
+🔗 [Click here to download the dataset](Excel Project Dataset(1))  
 
 ## 🚀 How to Use  
 1. Download the Excel file.  
