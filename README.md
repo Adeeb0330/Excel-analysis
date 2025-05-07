@@ -1,4 +1,4 @@
-# 🚴‍♂️ Bike Sales Analysis | Excel  
+# 🚴‍♂️ Sales Analysis | Excel  
 
 ## 📌 About  
 This repository contains an **Excel-based Bike Sales Analysis** project, covering:  
